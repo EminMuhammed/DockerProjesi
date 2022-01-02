@@ -1,0 +1,7 @@
+pip
+pandas 
+requests
+beautifulsoup4
+DateTime
+colorama
+lxml
